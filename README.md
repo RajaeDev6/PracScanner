@@ -1,4 +1,4 @@
-# PRACSCAN
+# PRACSCANNER
 
 A port scanner written in go. Shows whether a port is open or closed on a network
 
